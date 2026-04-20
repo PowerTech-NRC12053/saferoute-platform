@@ -1,5 +1,5 @@
 @startuml
-scale 0.5
+scale 0.3
 skinparam monochrome false
 
 package "SafeRoute.Fleet.Domain.Model.Aggregates" {

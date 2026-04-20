@@ -1,5 +1,5 @@
 @startuml
-scale 0.5
+scale 0.4
 skinparam monochrome false
 
 package "SafeRoute.Notifications.Domain.Model.Aggregates" {
