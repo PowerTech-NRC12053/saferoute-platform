@@ -1,0 +1,6 @@
+@Safer_Route_Platform_HostAddress = http://localhost:5255
+
+GET {{Safer_Route_Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
